@@ -4,10 +4,14 @@
   </a>
 </h1>
 
- ## ﾠAbout me ⥽
+ ## ㅤﾠAbout me ⥽
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1643824/screenshots/3763349/shot1.gif">
 
-  💭 Interested in web development<br>🌱  I'm currently learning **C#**<br>🏳‍🌈 Pronouns: she/her<br>🍵 I am into music, games and art<br>✉️ Languages:<br>🇧🇷 Portuguese (native)<br>🇺🇸 English (intermediate)<br>
+  - 💭 Interested in web development<br>
+  - 🌱  I'm currently learning **C#**<br>
+  - 🏳‍🌈 Pronouns: she/her<br>
+  - 🍵 I am into music, games and art<br>
+  - ✉️ Languages:<br>🇧🇷 Portuguese (native)<br>🇺🇸 English (intermediate)<br>
 # 
 ### ﾠSocials ⥽
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amortedoelfo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alice-moreira-0a9277258/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alice.ayresm@gmail.com)](mailto:alice.ayresm@gmail.com)
