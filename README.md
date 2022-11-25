@@ -14,7 +14,7 @@
   - ✉️ Languages:<br>🇧🇷 Portuguese (native)<br>🇺🇸 English (intermediate)<br>
 # 
 ### ﾠSocials ⥽
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amortedoelfo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alice-moreira-0a9277258/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alice.ayresm@gmail.com)](mailto:alice.ayresm@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/amortedoelfo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alice-moreira-0a9277258/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alice.ayresm@gmail.com)](mailto:alice.ayresm@gmail.com)
 <br>
 
 ### 💻Tech Stack:
