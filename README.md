@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1643824/screenshots/3763349/shot1.gif">
 
   - 💭 Interested in web development<br>
-  - 🌱  I'm currently learning **PHP**<br>
+  - 🌱  I'm currently learning **JavaScript**<br>
   - 🏳‍🌈 Pronouns: she/her<br>
   - 🍵 I am into music, games and design<br>
   - ✉️ Languages:<br>🇧🇷 Portuguese (native)<br>🇺🇸 English (intermediate)<br>
