@@ -10,7 +10,7 @@
   - 💭 Interested in web development<br>
   - 🌱  I'm currently learning **PHP**<br>
   - 🏳‍🌈 Pronouns: she/her<br>
-  - 🍵 I am into music, games and art<br>
+  - 🍵 I am into music, games and design<br>
   - ✉️ Languages:<br>🇧🇷 Portuguese (native)<br>🇺🇸 English (intermediate)<br>
 # 
 ### Socials ⥽
