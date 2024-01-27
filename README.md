@@ -9,7 +9,7 @@
 
   - 💭 Interested in web development<br>
   - 🌱  I'm currently learning **JavaScript**<br>
-  - 🏳‍🌈 Pronouns: she/her<br>
+  - 🧸 Pronouns: she/her<br>
   - 🍵 I am into music, games and design<br>
   - ✉️ Languages:<br>🇧🇷 Portuguese (native)<br>🇺🇸 English (intermediate)<br>
 # 
